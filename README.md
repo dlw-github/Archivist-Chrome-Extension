@@ -12,7 +12,7 @@ Add to [Chrome](https://chrome.google.com/webstore/detail/archivist/bpdhbjagefda
 
 ## How it works
 ![Problem](https://github.com/dlwaldroop/archive_extension/blob/main/extension_photos/blocked_from_reading.png "Problem")
-
+___
 ![Solution](https://github.com/dlwaldroop/archive_extension/blob/main/extension_photos/click_extension_icon.png "Solution")
-
+___
 ![Success](https://github.com/dlwaldroop/archive_extension/blob/main/extension_photos/success.png "Success")
