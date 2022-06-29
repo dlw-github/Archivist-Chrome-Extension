@@ -11,8 +11,11 @@ Add to [Chrome](https://chrome.google.com/webstore/detail/archivist/bpdhbjagefda
 `Preferences` > `Extensions` > Uncheck `Enable`
 
 ## How it works
+### 1. Come across a paywalled webpage
 ![Problem](https://github.com/dlwaldroop/archive_extension/blob/main/extension_photos/blocked_from_reading.png "Problem")
 ___
+### 2. Click extension icon
 ![Solution](https://github.com/dlwaldroop/archive_extension/blob/main/extension_photos/click_extension_icon.png "Solution")
 ___
+### 3. View full archived version of webpage
 ![Success](https://github.com/dlwaldroop/archive_extension/blob/main/extension_photos/success.png "Success")
