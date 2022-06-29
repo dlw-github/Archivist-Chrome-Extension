@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,  
+  "version": "0.0.4",
+  "name": "Archivist",
+  "short_name": "Archivist",
+  "description": "Routs around paywalls by opening an archived version of the webpage",
+  "author": "Daniel Waldroop",
+  "action": {
+    "default_title": "Open archived page",
+    "default_icon": "archive_logo.png"
+  },
+  "permissions": [
+	"activeTab"
+   ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
